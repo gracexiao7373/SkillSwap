@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Work on one feature at a time until completion
+- Make minimal, focused changes in each step
+- Get explicit approval before moving to next feature
+- Document dependencies before starting a feature
+- Track progress in todo.md
+
